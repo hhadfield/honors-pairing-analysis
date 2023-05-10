@@ -1,5 +1,5 @@
 # honors-pairing-analysis
-This repository holds two functions which were used to analyze movies of the pairing dynamics of fluorescent transgenes that marked homologous loci in the nuclei of early stage _Drosophila_ embryos.
+This repository holds two MATLAB functions which were used to analyze movies of the pairing dynamics of fluorescent transgenes that marked homologous loci in the nuclei of early stage _Drosophila_ embryos.
 
 **CheckingPairingMyron** will output the percent of nuclei analyzed in the movie that have pairing homologous loci, which is defined as homologous loci with an interhomolog distance of less than 0.65um for 4 minutes.
 
